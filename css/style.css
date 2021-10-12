@@ -115,9 +115,9 @@ header{
   /* YOUR CODE HERE; */
   grid-column: 1/-1;
   grid-row: 1/span 1;
-  background: url(../images/header.jpg);
+  background: url("../images/header.jpg");
   background-repeat: no-repeat;
-  /* background-attachment: fixed; */
+  background-attachment: fixed;
   background-position: center;
   background-size: cover;
 
